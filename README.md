@@ -19,7 +19,6 @@ My name is Isha.
 
 
 :seedling: Currently learning Danjgo, Ruby on Rails, Gen AI.
-
 :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 ---
