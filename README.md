@@ -11,6 +11,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Software Developer Engineer. 
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 <!---
 Isha-cpu/Isha-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
