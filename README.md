@@ -12,6 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  My name is Isha.
+```yaml
 👨🏻‍💻  A Little Bit About Me and My Interests
 located_in: Delhi, India
 current_job: Software Developer
@@ -39,7 +40,7 @@ technical_background:
 currently_learning: ["Danjgo, Ruby on Rails, Gen AI"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-8 new Technologies."]
 hobbies: ["Gaming", "Art", "Music"]
-
+```
 
 
 <!---
