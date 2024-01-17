@@ -15,11 +15,12 @@
 My name is Isha.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Developer from India.
 </h2>
-:telescope: I’m working as a Software Engineer.
 
+- :telescope: I’m working as a Software Engineer.
+  
+- :seedling: Currently learning Danjgo, Ruby on Rails, Gen AI.
 
-:seedling: Currently learning Danjgo, Ruby on Rails, Gen AI.
-:zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 ---
 
