@@ -17,6 +17,7 @@ My name is Isha.
 </h2>
 :telescope: I’m working as a Software Engineer.
 
+
 :seedling: Currently learning Danjgo, Ruby on Rails, Gen AI.
 
 :zap: In my free time, I solve problems on Leetcode and read tech articles.
