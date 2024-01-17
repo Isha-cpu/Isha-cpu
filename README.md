@@ -11,9 +11,10 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>
 My name is Isha.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Developer from India.
-
+</h2>
 - :telescope: I’m working as a Software Engineer.
 
 - :seedling: Currently learning Danjgo, Ruby on Rails, Gen AI.
