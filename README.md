@@ -44,7 +44,7 @@ My name is Isha.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isha-cpu&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isha-cpu&theme=shades-of-purple)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-cpu&layout=compact&theme=vision-friendly-dark)]
 <!---
